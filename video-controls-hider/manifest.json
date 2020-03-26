@@ -3,7 +3,7 @@
   "name": "Video Controls Hider for YouTube™",
   "description": "Hide YouTube™ Video Controls on Fullscreen",
   "content_security_policy": "default-src 'self",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icons": {
     "16": "icons/16.png",
     "19": "icons/19.png",
